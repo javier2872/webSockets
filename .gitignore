@@ -1,0 +1,40 @@
+.sonarlint
+
+# VisualStudio.
+.vscode
+
+# Eclipse IDE.
+.settings
+.metadata
+.project
+.classpath
+.buildpath
+Servers
+bin
+
+# Maven build tools.
+target
+.mvn
+
+# Sprint Tools 
+*.sts4-cache
+*.sts3-cache
+.attach_pid*
+/.DS_Store
+**/.DS_Store
+*/META-INF/*
+
+# React
+# dependencies
+/node_modules
+**/node_modules
+/node_modules/
+**/node_modules/
+/.pnp
+.pnp.js
+
+# Package files.
+*.jar
+*.war
+*.ear
+*.zip
